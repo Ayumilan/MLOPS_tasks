@@ -1,2 +1,2 @@
-# MLOPS_tasks
+# Task 3
 Tasks related to Summer training
